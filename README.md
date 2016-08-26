@@ -19,4 +19,10 @@ normal express handlers like
 res.status(200).json({})
 ```
 
+or
+
+```js
+res.sendFile(__dirname + '/doge_wat.png')
+```
+
 also work
