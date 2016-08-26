@@ -34,7 +34,6 @@ spdy.createServer(options, app)
     .listen(port, (err) => {
         if (err) {
             return console.error(err)
-        } else {
-            console.log(`Listening on port: ${port} `)
         }
+        console.log(`Listening on port: ${port} `)
     })
