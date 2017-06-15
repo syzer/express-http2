@@ -1,5 +1,7 @@
 # WAT
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/syzer/express-http2.svg)](https://greenkeeper.io/)
+
 node.js + express + http2
 
 # HOW
